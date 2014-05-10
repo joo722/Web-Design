@@ -20,7 +20,7 @@ header li {
 	display: block;
 	margin: 0 auto;
 	width: 100%;
-}
+} 
 
 .list {
 	height: 20px;
@@ -32,6 +32,6 @@ body {
 
 .UX {
 	text-align: center;
-	padding: 200px 0px 0px 0px;
+	padding: 100px 0px 0px 0px;
 
 }
